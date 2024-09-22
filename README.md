@@ -10,8 +10,9 @@ I enjoy tackling challenges and creating projects that make life easier, like my
 
 Feel free to check out my repositories, and don't hesitate to reach out if you want to collaborate or discuss ideas! 
 
-
-
+<br>
+<br>
+<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rafaeldeoliveiramendes/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27320561) 
