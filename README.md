@@ -4,7 +4,7 @@ Hello! I'm Rafael Mendes, a 17-year-old developer with a strong enthusiasm for t
 
 I enjoy tackling challenges and creating projects that make life easier, like my ongoing work on a personal finance app and an interactive game on Roblox. When I'm not coding, I love exploring physics, astronomy, music, and anime.
 
-Feel free to check out my repositories, and don't hesitate to reach out if you want to collaborate or discuss ideas! ![Megumi Fushiguro]([https://your-image-link.gif](https://i.pinimg.com/736x/12/12/9f/12129f2211f0222b8325dd3c5297d19b.jpg))
+Feel free to check out my repositories, and don't hesitate to reach out if you want to collaborate or discuss ideas! ![Megumi Fushiguro](https://i.pinimg.com/736x/12/12/9f/12129f2211f0222b8325dd3c5297d19b.jpg)
 
 
 
