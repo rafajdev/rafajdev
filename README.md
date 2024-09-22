@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Rafael!
 
 Hello! I'm Rafael Mendes, a 17-year-old developer with a strong enthusiasm for technology and innovation. I started my programming journey at 16, focusing on Python, and I'm currently diving into front-end development with React and TypeScript.
-I enjoy tackling challenges and creating projects that make life easier When I'm not coding, I love exploring physics, astronomy, music, and gaming.
+I enjoy tackling challenges and creating projects that make life easier. When I'm not coding, I love exploring physics, astronomy, music, and gaming.
 
 ⭐ I'm currently open for new projects so you can reach me trough my [email](mailto:rafadeoliveiramendes@gmail.com)!
 
