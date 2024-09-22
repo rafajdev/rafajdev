@@ -10,7 +10,7 @@ Feel free to check out my repositories, and don't hesitate to reach out if you w
 # 🕜 Currently:
 - 🔭 I’m currently working on "Simple Github Profile Viewer"<br>- 🌱 I’m currently learning React and NodeJS<br>- 🤔 I’m looking for help with data bases<br>- 📫 How to reach me: rafadeoliveiramendes@gmail.com<br>
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rafaeldeoliveiramendes/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27320561) 
 
 # 💻 Tech Stack:
