@@ -6,7 +6,7 @@ I enjoy tackling challenges and creating projects that make life easier When I'm
 ⭐ I'm currently open for new projects so you can reach me trough my [email](mailto:rafadeoliveiramendes@gmail.com)!
 
 <a href="#">
-<img src="https://yt3.googleusercontent.com/lKHqVQYRp0Hm0o8Fc8qqNsgchgwCuCmqWy8g37TR6WZN3RS8vjCMikP_FaKoREVs_zOx7Xp2sJk=s900-c-k-c0x00ffffff-no-rj" title="hello" width="200" height="200" align="right" alt="Hello, there!">
+<img src="https://yt3.googleusercontent.com/lKHqVQYRp0Hm0o8Fc8qqNsgchgwCuCmqWy8g37TR6WZN3RS8vjCMikP_FaKoREVs_zOx7Xp2sJk=s900-c-k-c0x00ffffff-no-rj" title="hello" width="150" height="150" align="right" alt="Hello, there!">
 </a>
 
 Feel free to check out my repositories, and don't hesitate to reach out if you want to collaborate or discuss ideas! 
