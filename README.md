@@ -5,10 +5,6 @@ I enjoy tackling challenges and creating projects that make life easier. When I'
 
 ⭐ I'm currently open for new projects so you can reach me trough my [email](mailto:rafadeoliveiramendes@gmail.com)!
 
-<a href="#">
-<img src="https://i1.sndcdn.com/artworks-UHDG8cLQKfDpWxru-EbTxIQ-t500x500.jpg" title="hello" width="150" height="150" align="right" alt="Hello, there!">
-</a>
-
 Feel free to check out my repositories, and don't hesitate to reach out if you want to collaborate or discuss ideas! 
 
 ### 🌐 Socials:
