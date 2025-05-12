@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Rafael!
 
-Hey! I'm Rafael Mendes, a developer who loves tech and innovation.
+Hello, I'm Rafael Mendes, a developer who loves tech and innovation!
 I got into programming with Python few years ago and haven’t stopped since. These days, I'm mostly focused on backend stuff and learning more about AI.
 I enjoy building things that solve real problems and make life easier. Outside of coding, I’m usually geeking out over physics, astronomy, music, or just playing some games.
 
