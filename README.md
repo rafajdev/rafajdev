@@ -1,11 +1,11 @@
-### Hello, I'm Rafael 👋!
+### Olá, me chamo Rafael 👋!
 
-> FullStack Developer | AI Developer
+> Desenvolvedor FullStack | Desenvolvedor Python
 
-**Focus Stack:** TypeScript, Python, NodeJS, Lua
+**Stack principal:** TypeScript, Python, NodeJS, Lua
 <br>
-**Working on:** IA e Machine Learning
+**Ultimamente lidando com:** IA e Machine Learning
 
 ---
 * [StackOverflow](https://stackoverflow.com/users/27320561/rafa)
-* [Portfolio](...) **(Working on it)**
+* [Portfolio](...) **(Em progresso)**
