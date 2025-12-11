@@ -8,4 +8,4 @@
 
 ---
 * [StackOverflow](https://stackoverflow.com/users/27320561/rafa)
-* [Portfolio](...) **(Em progresso)**
+* [Portifólio](...) **(Em progresso)**
